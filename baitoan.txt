@@ -1,0 +1,8 @@
+int phepTinhCong(int a, int b) {
+    // code o day
+}
+
+
+int phepTinhTru(int a, int b) {
+    // code o day
+}
